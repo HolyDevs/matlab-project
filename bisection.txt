@@ -1,4 +1,4 @@
-func=log(2 * x^2 + 4 * x^3 + 10), eps=10e-6
+bisection, func=log(2 * x^2 + 4 * x^3 + 10), eps=10e-6
 
 ------------------
 Numer iteracji: 1

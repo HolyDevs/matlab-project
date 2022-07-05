@@ -1,5 +1,7 @@
-function [x_vals, y_vals] = bisection(a, b, func, epsilon, x_vals, y_vals)
-    if abs(b - a) <= 2 * epsilon
+function [x_vals, y_vals, ranges] = bisection(a, b, func, epsilon, x_vals, y_vals, ranges)
+    range = abs(b - a);
+    ranges = [ranges, range];
+    if range <= 2 * epsilon
         x_val = (b + a) / 2.0;
         y_vals = [y_vals, func(x_val)];
         x_vals = [x_vals, x_val];
@@ -20,5 +22,5 @@ function [x_vals, y_vals] = bisection(a, b, func, epsilon, x_vals, y_vals)
     x_val = (b + a) / 2.0;
     x_vals(end + 1) = x_val;
     y_vals(end + 1) = func(x_val);
-    [x_vals, y_vals] = bisection(a, b, func, epsilon, x_vals, y_vals);
+    [x_vals, y_vals, ranges] = bisection(a, b, func, epsilon, x_vals, y_vals, ranges);
 end

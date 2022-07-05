@@ -1,0 +1,118 @@
+func=log(2 * x^2 + 4 * x^3 + 10), eps=10e-6
+
+------------------
+Numer iteracji: 1
+Obecne położenie minimum: -0.75
+Moduł różnicy rozwiązań: 0.79638-0.0013229i
+------------------
+
+Numer iteracji: 2
+Obecne położenie minimum: -1.375
+Moduł różnicy rozwiązań: 0.17138-0.0013229i
+------------------
+
+Numer iteracji: 3
+Obecne położenie minimum: -1.375
+Moduł różnicy rozwiązań: 0.17138-0.0013229i
+------------------
+
+Numer iteracji: 4
+Obecne położenie minimum: -1.5312
+Moduł różnicy rozwiązań: 0.015128-0.0013229i
+------------------
+
+Numer iteracji: 5
+Obecne położenie minimum: -1.5312
+Moduł różnicy rozwiązań: 0.015128-0.0013229i
+------------------
+
+Numer iteracji: 6
+Obecne położenie minimum: -1.5312
+Moduł różnicy rozwiązań: 0.015128-0.0013229i
+------------------
+
+Numer iteracji: 7
+Obecne położenie minimum: -1.5508
+Moduł różnicy rozwiązań: 0.0044028+0.0013229i
+------------------
+
+Numer iteracji: 8
+Obecne położenie minimum: -1.5508
+Moduł różnicy rozwiązań: 0.0044028+0.0013229i
+------------------
+
+Numer iteracji: 9
+Obecne położenie minimum: -1.5459
+Moduł różnicy rozwiązań: 0.00048-0.0013229i
+------------------
+
+Numer iteracji: 10
+Obecne położenie minimum: -1.5459
+Moduł różnicy rozwiązań: 0.00048-0.0013229i
+------------------
+
+Numer iteracji: 11
+Obecne położenie minimum: -1.5459
+Moduł różnicy rozwiązań: 0.00048-0.0013229i
+------------------
+
+Numer iteracji: 12
+Obecne położenie minimum: -1.5459
+Moduł różnicy rozwiązań: 0.00048-0.0013229i
+------------------
+
+Numer iteracji: 13
+Obecne położenie minimum: -1.5459
+Moduł różnicy rozwiązań: 0.00048-0.0013229i
+------------------
+
+Numer iteracji: 14
+Obecne położenie minimum: -1.5461
+Moduł różnicy rozwiązań: 0.00032741-0.0013229i
+------------------
+
+Numer iteracji: 15
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.00040371-0.0013229i
+------------------
+
+Numer iteracji: 16
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.00040371-0.0013229i
+------------------
+
+Numer iteracji: 17
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.00038463-0.0013229i
+------------------
+
+Numer iteracji: 18
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.00038463-0.0013229i
+------------------
+
+Numer iteracji: 19
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.0003894-0.0013229i
+------------------
+
+Numer iteracji: 20
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.0003894-0.0013229i
+------------------
+
+Numer iteracji: 21
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.0003894-0.0013229i
+------------------
+
+Numer iteracji: 22
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.0003894-0.0013229i
+------------------
+
+Numer iteracji: 23
+Obecne położenie minimum: -1.546
+Moduł różnicy rozwiązań: 0.0003894-0.0013229i
+------------------
+

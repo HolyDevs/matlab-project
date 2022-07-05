@@ -1,0 +1,183 @@
+golden section, func=((x^2 + 3)^2) / 8) - 2, eps=10e-6
+
+------------------
+Numer iteracji: 1
+Obecne położenie minimum: -4.1844
+Moduł różnicy rozwiązań: 4.1844
+------------------
+
+Numer iteracji: 2
+Obecne położenie minimum: -0.053216
+Moduł różnicy rozwiązań: 0.053205
+------------------
+
+Numer iteracji: 3
+Obecne położenie minimum: 2.5
+Moduł różnicy rozwiązań: 2.5
+------------------
+
+Numer iteracji: 4
+Obecne położenie minimum: 0.92203
+Moduł różnicy rozwiązań: 0.92204
+------------------
+
+Numer iteracji: 5
+Obecne położenie minimum: -0.053216
+Moduł różnicy rozwiązań: 0.053205
+------------------
+
+Numer iteracji: 6
+Obecne położenie minimum: 0.54952
+Moduł różnicy rozwiązań: 0.54953
+------------------
+
+Numer iteracji: 7
+Obecne położenie minimum: 0.17701
+Moduł różnicy rozwiązań: 0.17702
+------------------
+
+Numer iteracji: 8
+Obecne położenie minimum: -0.053216
+Moduł różnicy rozwiązań: 0.053205
+------------------
+
+Numer iteracji: 9
+Obecne położenie minimum: 0.08907
+Moduł różnicy rozwiązań: 0.089081
+------------------
+
+Numer iteracji: 10
+Obecne położenie minimum: 0.0011328
+Moduł różnicy rozwiązań: 0.0011432
+------------------
+
+Numer iteracji: 11
+Obecne położenie minimum: -0.053216
+Moduł różnicy rozwiązań: 0.053205
+------------------
+
+Numer iteracji: 12
+Obecne położenie minimum: -0.019626
+Moduł różnicy rozwiązań: 0.019616
+------------------
+
+Numer iteracji: 13
+Obecne położenie minimum: 0.0011328
+Moduł różnicy rozwiązań: 0.0011432
+------------------
+
+Numer iteracji: 14
+Obecne położenie minimum: -0.011697
+Moduł różnicy rozwiązań: 0.011687
+------------------
+
+Numer iteracji: 15
+Obecne położenie minimum: -0.0037678
+Moduł różnicy rozwiązań: 0.0037574
+------------------
+
+Numer iteracji: 16
+Obecne położenie minimum: 0.0011328
+Moduł różnicy rozwiązań: 0.0011432
+------------------
+
+Numer iteracji: 17
+Obecne położenie minimum: -0.001896
+Moduł różnicy rozwiązań: 0.0018855
+------------------
+
+Numer iteracji: 18
+Obecne położenie minimum: -2.4112e-05
+Moduł różnicy rozwiązań: 1.3642e-05
+------------------
+
+Numer iteracji: 19
+Obecne położenie minimum: 0.0011328
+Moduł różnicy rozwiązań: 0.0011432
+------------------
+
+Numer iteracji: 20
+Obecne położenie minimum: 0.00041777
+Moduł różnicy rozwiązań: 0.00042824
+------------------
+
+Numer iteracji: 21
+Obecne położenie minimum: -2.4112e-05
+Moduł różnicy rozwiązań: 1.3642e-05
+------------------
+
+Numer iteracji: 22
+Obecne położenie minimum: 0.00024899
+Moduł różnicy rozwiązań: 0.00025946
+------------------
+
+Numer iteracji: 23
+Obecne położenie minimum: 8.0203e-05
+Moduł różnicy rozwiązań: 9.0673e-05
+------------------
+
+Numer iteracji: 24
+Obecne położenie minimum: -2.4112e-05
+Moduł różnicy rozwiązań: 1.3642e-05
+------------------
+
+Numer iteracji: 25
+Obecne położenie minimum: 4.0358e-05
+Moduł różnicy rozwiązań: 5.0828e-05
+------------------
+
+Numer iteracji: 26
+Obecne położenie minimum: 5.1326e-07
+Moduł różnicy rozwiązań: 1.0983e-05
+------------------
+
+Numer iteracji: 27
+Obecne położenie minimum: -2.4112e-05
+Moduł różnicy rozwiązań: 1.3642e-05
+------------------
+
+Numer iteracji: 28
+Obecne położenie minimum: -8.8928e-06
+Moduł różnicy rozwiązań: 1.5774e-06
+------------------
+
+Numer iteracji: 29
+Obecne położenie minimum: 5.1326e-07
+Moduł różnicy rozwiązań: 1.0983e-05
+------------------
+
+Numer iteracji: 30
+Obecne położenie minimum: -5.3e-06
+Moduł różnicy rozwiązań: 5.1702e-06
+------------------
+
+Numer iteracji: 31
+Obecne położenie minimum: -1.7072e-06
+Moduł różnicy rozwiązań: 8.763e-06
+------------------
+
+Numer iteracji: 32
+Obecne położenie minimum: 5.1326e-07
+Moduł różnicy rozwiązań: 1.0983e-05
+------------------
+
+Numer iteracji: 33
+Obecne położenie minimum: -8.5907e-07
+Moduł różnicy rozwiązań: 9.6112e-06
+------------------
+
+Numer iteracji: 34
+Obecne położenie minimum: -1.0925e-08
+Moduł różnicy rozwiązań: 1.0459e-05
+------------------
+
+Numer iteracji: 35
+Obecne położenie minimum: 5.1326e-07
+Moduł różnicy rozwiązań: 1.0983e-05
+------------------
+
+Numer iteracji: 36
+Obecne położenie minimum: 5.1326e-07
+Moduł różnicy rozwiązań: 1.0983e-05
+------------------
+
